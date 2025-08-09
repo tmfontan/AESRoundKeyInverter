@@ -72,6 +72,8 @@ This tool reverses that process to recover the original key.
 
 **Diagram:**
 
+![Tutorial Diagram]([https://github.com/tmfontan/AESRoundKeyInverter/blob/main/Inverse%20Round%20Key%20Diagram.png])
+
 ---
 
 ## Project Structure
@@ -90,5 +92,5 @@ This tool reverses that process to recover the original key.
 
 ## Disclaimer
 
-This project is intended solely for educational and authorized security testing purposes.
-Do not use it for unauthorized access, decryption, or any illegal activities.
+*This project is intended solely for educational and authorized security testing purposes.*
+*Do not use it for unauthorized access, decryption, or any illegal activities.*
