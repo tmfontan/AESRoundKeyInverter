@@ -72,7 +72,7 @@ This tool reverses that process to recover the original key.
 
 **Diagram:**
 
-![Tutorial Diagram]([https://github.com/tmfontan/AESRoundKeyInverter/blob/main/Inverse%20Round%20Key%20Diagram.png])
+![Tutorial Diagram](https://github.com/tmfontan/AESRoundKeyInverter/blob/main/Inverse%20Round%20Key%20Diagram.png)
 
 ---
 
