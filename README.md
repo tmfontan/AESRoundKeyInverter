@@ -43,14 +43,25 @@ The tool prompts for input key data or round keys (depending on your implementat
 
 Example Output (simplified):
 
+---
+
 ## Project Structure
 
 - **RoundKey.java** – Defines a data structure for holding round numbers and their byte array values.
 
 - **InverseKeyGeneration.java** – Contains the logic to reverse AES-128 key scheduling and retrieve the original key.
 
+---
+
 ## Prerequisites
 
 - Java 8+
-
+  
 - Basic understanding of AES encryption and key scheduling (recommended but not required).
+  
+---
+
+## Disclaimer
+
+This project is intended solely for educational and authorized security testing purposes.
+Do not use it for unauthorized access, decryption, or any illegal activities.
