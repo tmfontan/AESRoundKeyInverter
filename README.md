@@ -7,6 +7,7 @@ A Java-based cryptographic utility that **reverses the AES-128 round key generat
 ---
 
 ## Features
+
 - **Inverse Key Expansion** – Retrieves the original AES-128 key and every round key from an existing key schedule.
 - **Custom Round Key Data Structure** – Implements a dedicated `RoundKey` object to store the round number and corresponding byte array for clean organization and easy retrieval.
 - **Forensic & Educational Applications** – Supports learning, validating encryption processes, and investigating cryptographic key handling in systems.
@@ -37,8 +38,8 @@ A Java-based cryptographic utility that **reverses the AES-128 round key generat
 ## Usage
 The tool prompts for input key data or round keys (depending on your implementation), then reconstructs:
 
-- **The original AES-128 encryption key.
-- **All 10 round keys used in the AES-128 encryption process.
+- The original AES-128 encryption key.
+- All 10 round keys used in the AES-128 encryption process.
 
 Example Output (simplified):
 
