@@ -45,9 +45,9 @@ Example Output (simplified):
 
 Project Structure
 
--RoundKey.java – Defines a data structure for holding round numbers and their byte array values.
+- RoundKey.java – Defines a data structure for holding round numbers and their byte array values.
 
--InverseKeyGeneration.java – Contains the logic to reverse AES-128 key scheduling and retrieve the original key.
+- InverseKeyGeneration.java – Contains the logic to reverse AES-128 key scheduling and retrieve the original key.
 
 Prerequisites
 
