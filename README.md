@@ -28,7 +28,7 @@ A Java-based cryptographic utility that **reverses the AES-128 round key generat
    ```bash
    javac RoundKey.java InverseKeyGeneration.java
 
-3. **Compile the Source Code**
+3. **Run The Application**
    
    ```bash
    java InverseKeyGeneration
