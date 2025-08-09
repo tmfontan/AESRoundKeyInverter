@@ -43,6 +43,14 @@ The tool prompts for input key data or round keys (depending on your implementat
 
 Example Output (simplified):
 
+```bash
+   Original Key:  2b7e151628aed2a6abf7158809cf4f3c
+   Round Key 1:   a0fafe1788542cb123a339392a6c7605
+   Round Key 2:   f2c295f27a96b9435935807a7359f67f
+   ...
+   Round Key 10:  d014f9a8c9ee2589e13f0cc8b6630ca6
+```
+
 ---
 
 ## Project Structure
@@ -65,6 +73,18 @@ AES-128 uses a key schedule to generate a series of round keys from the original
 This tool reverses that process to recover the original key.
 
 Key Expansion (Forward):
+
+```bash
+   Original Key --> Round Key 1 --> Round Key 2 --> ... --> Round Key 10
+```
+
+Inverse Key Expansion (This Tool):
+
+```bash
+   Round Key 10 --> Round Key 9 --> ... --> Original Key
+```
+
+Diagram:
 
 ---
 
