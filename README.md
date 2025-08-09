@@ -58,19 +58,19 @@ The tool prompts for input key data or round keys (depending on your implementat
 AES-128 uses a key schedule to generate a series of round keys from the original 128-bit key.
 This tool reverses that process to recover the original key.
 
-Key Expansion (Forward):
+**Key Expansion (Forward):**
 
 ```bash
    Original Key --> Round Key 1 --> Round Key 2 --> ... --> Round Key 10
 ```
 
-Inverse Key Expansion (This Tool):
+**Inverse Key Expansion (This Tool):**
 
 ```bash
    Round Key 10 --> Round Key 9 --> ... --> Original Key
 ```
 
-Diagram:
+**Diagram:**
 
 ---
 
