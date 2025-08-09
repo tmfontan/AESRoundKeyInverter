@@ -16,21 +16,25 @@ A Java-based cryptographic utility that **reverses the AES-128 round key generat
 ## Installation
 
 1. **Clone the Repository**
+   
    ```bash
    git clone https://github.com/your-username/aes-inverse-key-expansion.git
    
    cd aes-inverse-key-expansion
 
 2. **Compile the Source Code**
+   
    ```bash
    javac RoundKey.java InverseKeyGeneration.java
 
 3. **Compile the Source Code**
+   
    ```bash
    java InverseKeyGeneration
 
-Usage
+## Usage
 The tool prompts for input key data or round keys (depending on your implementation), then reconstructs:
+
 - **The original AES-128 encryption key.
 - **All 10 round keys used in the AES-128 encryption process.
 
