@@ -1,7 +1,7 @@
 <h1 align="center">🔐 AES-128 Inverse Key Expansion & Forensic Analysis Tool</h1>
 
 <p align="center">
-  <img src="https://github.com/tmfontan/AESRoundKeyInverter/blob/main/AES-128_logo.png" alt="AES-128 Tool Logo" width="1200"/>
+  <img src="Images/Logos/AES-128_logo.png" alt="AES-128 Tool Logo" width="1200"/>
 </p>
 
 [![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://www.oracle.com/java/technologies/javase-downloads.html)
