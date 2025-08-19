@@ -1,5 +1,3 @@
-# AES-128 Inverse Key Expansion & Forensic Analysis Tool
-
 <h1 align="center">🔐 AES-128 Inverse Key Expansion & Forensic Analysis Tool</h1>
 
 <p align="center">
