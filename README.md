@@ -1,4 +1,4 @@
-<h1 align="center">🔐 AES-128 Inverse Key Expansion & Forensic Analysis Tool</h1>
+<h1 align="center">AES-128 Inverse Key Expansion & Forensic Analysis Tool</h1>
 
 <p align="center">
   <img src="Images/Logos/AES-128_logo.png" alt="AES-128 Tool Logo" width="1200"/>
